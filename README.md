@@ -1,1 +1,1 @@
-# Credit-Card-Default-Machine-Learning-Project
+Credit Card Default Prediction using Machine Learning Techniques
